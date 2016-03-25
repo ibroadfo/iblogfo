@@ -1,4 +1,4 @@
-# Loading Markdown files in Emberjs
+# Loading Markdown files in Ember.js
 
 As a developer,
 
