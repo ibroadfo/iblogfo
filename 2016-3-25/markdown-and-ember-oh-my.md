@@ -18,10 +18,10 @@ Without requiring that non-technical colleagues learn a new programming language
   - `{{markdown-to-html markdown=(fr-markdown-file model)}}`
   
 1. link from your templates like:
-```handlebars
+    ```handlebars
       {{link-to "Code of Conduct" "mdContent" "code-of-conduct"}}
       {{link-to "Privacy"         "mdContent" "privacy"}}
       {{link-to "Getting Started" "mdContent" "getting-started"}}
-```
+    ```
 
 1. Profit!
